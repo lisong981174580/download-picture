@@ -1,6 +1,6 @@
 # dl-pictures
 
-js 实现的图片效果
+js 实现的图片下载效果
 
 ## Installment
 
