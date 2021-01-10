@@ -1,6 +1,6 @@
 {
   "name": "dl-pictures",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "js 实现图片下载效果",
   "main": "index.js",
   "scripts": {
