@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lisong981174580/download-img.git"
+    "url": "git+https://github.com/lisong981174580/download-picture.git"
   },
   "keywords": [
-    "download-picture、picture、download-img、img、图片下载"
+    "download-picture、picture、download-picture、img、图片下载"
   ],
   "author": "李松",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lisong981174580/download-img/issues"
+    "url": "https://github.com/lisong981174580/download-picture/issues"
   },
-  "homepage": "https://github.com/lisong981174580/download-img#readme"
+  "homepage": "https://github.com/lisong981174580/download-picture#readme"
 }
