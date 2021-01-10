@@ -1,6 +1,6 @@
 {
-  "name": "download-picture",
-  "version": "1.0.1",
+  "name": "dl-pictures",
+  "version": "1.0.0",
   "description": "js 实现图片下载效果",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/lisong981174580/download-picture.git"
   },
   "keywords": [
-    "download-picture、picture、download-picture、img、图片下载"
+    "dl-pictures",
+    "download-picture"
   ],
   "author": "李松",
   "license": "ISC",
