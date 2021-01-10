@@ -1,0 +1,22 @@
+{
+  "name": "download-picture",
+  "version": "1.0.0",
+  "description": "js 实现图片下载效果",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisong981174580/download-img.git"
+  },
+  "keywords": [
+    "download-picture、picture、download-img、img、图片下载"
+  ],
+  "author": "李松",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisong981174580/download-img/issues"
+  },
+  "homepage": "https://github.com/lisong981174580/download-img#readme"
+}
